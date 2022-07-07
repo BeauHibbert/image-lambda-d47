@@ -1,0 +1,11 @@
+{
+  "images": [
+    {
+      "name": "image1", "size": "large", "type": "jpeg", "url":""
+    },
+    {
+      "name": "image2", "size": "medium", "type": "png", "url":""
+    }
+  ]
+  }
+  
