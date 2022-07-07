@@ -15,4 +15,4 @@
   - Append the data for this image to the array
   - Upload the images.json file back to the S3 bucket
 
-[image.json](link:https://github.com/BeauHibbert/image-lambda/blob/main/images.json)
+[image.json](https://github.com/BeauHibbert/image-lambda/blob/main/images.json)
